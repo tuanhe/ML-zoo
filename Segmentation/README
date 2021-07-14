@@ -1,1 +1,2 @@
 The model is download from [here](https://tfhub.dev/sayakpaul/lite-model/deeplabv3-mobilenetv2-int8/1/default/1)
+The DM5 model is download from [here](https://tfhub.dev/sayakpaul/lite-model/deeplabv3-mobilenetv2_dm05-int8/1/default/2)
