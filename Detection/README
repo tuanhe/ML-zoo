@@ -1,1 +1,2 @@
-null
+ssd_mobilenet_v1.tflite is downloaded from the https://github.com/ARM-software/ML-zoo/blob/master/models/object_detection/ssd_mobilenet_v1/tflite_uint8/ssd_mobilenet_v1.tflite
+yolox serial models are downloaded from PINTO https://github.com/PINTO0309/PINTO_model_zoo
